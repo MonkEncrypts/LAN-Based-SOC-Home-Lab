@@ -24,13 +24,13 @@
 
 ---
 
-## 📋 Project Overview
+## Project Overview
 
 **SOCVerse** is a comprehensive cybersecurity home lab environment designed to simulate real-world Security Operations Center (SOC) workflows. This project demonstrates end-to-end capabilities in threat detection, attack simulation, log analysis, and incident investigation — all mapped to the **MITRE ATT&CK** framework.
 
 The lab leverages **Wazuh SIEM** as the centralized monitoring platform, with multiple endpoints (Windows and Linux) serving as both attack targets and monitored assets. Attack simulations are conducted from a dedicated **Kali Linux** attacker machine to emulate adversary behavior across the kill chain.
 
-### 🎯 Project Goals
+### Project Goals
 
 - Build a fully functional SOC monitoring environment with centralized SIEM
 - Simulate real-world cyber attacks across Windows and Linux endpoints
@@ -39,7 +39,7 @@ The lab leverages **Wazuh SIEM** as the centralized monitoring platform, with mu
 - Document the complete investigation lifecycle for each incident
 - Create portfolio-grade documentation suitable for professional presentation
 
-### 📚 Learning Outcomes
+### Learning Outcomes
 
 - Understanding of SOC Tier 1/Tier 2 analyst workflows
 - Hands-on experience with SIEM deployment, configuration, and tuning
@@ -50,7 +50,7 @@ The lab leverages **Wazuh SIEM** as the centralized monitoring platform, with mu
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ### Network Topology
 
@@ -99,7 +99,7 @@ The lab leverages **Wazuh SIEM** as the centralized monitoring platform, with mu
 
 ---
 
-## 🖥️ Infrastructure
+## Infrastructure
 
 | Host Device | VM | Operating System | RAM | CPU | Storage | Role | Network |
 |---|---|---|---|---|---|---|---|
@@ -110,7 +110,7 @@ The lab leverages **Wazuh SIEM** as the centralized monitoring platform, with mu
 
 ---
 
-## 🔧 Technology Stack
+## Technology Stack
 
 | Category | Technology | Purpose |
 |---|---|---|
@@ -127,7 +127,7 @@ The lab leverages **Wazuh SIEM** as the centralized monitoring platform, with mu
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 SOC-Home-Lab/
@@ -156,7 +156,7 @@ SOC-Home-Lab/
 
 ---
 
-## 🚀 Setup Guide
+## Setup Guide
 
 ### Table of Contents – Setup
 
@@ -327,7 +327,7 @@ sudo bash ./wazuh-install.sh -a
 ```
 ![Wazuh-install](screenshots/Wazuh-Install.png)
 
-> 📌 **Important:** Save the generated admin credentials displayed at the end of installation.
+> **Important:** Save the generated admin credentials displayed at the end of installation.
 
 ---
 
@@ -526,7 +526,7 @@ sudo systemctl status wazuh-agent
 
 ---
 
-## 🧠 Skills Demonstrated
+## Skills Demonstrated
 
 | Skill Area | Description |
 |---|---|
@@ -543,14 +543,14 @@ sudo systemctl status wazuh-agent
 
 ---
 
-## 📜 License
+## License
 
 This project is for **educational and portfolio purposes only**. All attack simulations are performed in an isolated lab environment. Do not use these techniques against systems without explicit authorization.
 
 ---
 
 
-## 👤 Author
+## Author
 
 **Your Name**
 - GitHub: [@siriin4k](https://github.com/Siriin4k)
