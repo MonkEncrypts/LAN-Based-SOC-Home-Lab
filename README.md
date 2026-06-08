@@ -11,9 +11,6 @@
 
 <h1 align="center">🛡️ SOCVerse – Attack Simulation & Detection Engineering Lab</h1>
 
-<p align="center">
-  <em>A portfolio-grade cybersecurity home lab demonstrating SOC operations, detection engineering, threat monitoring, and incident investigation using Wazuh SIEM with MITRE ATT&CK mapping.</em>
-</p>
 
 <p align="center">
   <a href="#-project-overview">Overview</a> •
@@ -564,5 +561,5 @@ This project is for **educational and portfolio purposes only**. All attack simu
 ---
 
 <p align="center">
-  <em>Built with 💻 passion for cybersecurity and continuous learning.</em>
+  <em>Built with passion for cybersecurity and continuous learning.</em>
 </p>
