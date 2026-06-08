@@ -11,7 +11,6 @@
 
 <h1 align="center">🛡️ SOCVerse – Attack Simulation & Detection Engineering Lab</h1>
 
-
 <p align="center">
   <a href="#-project-overview">Overview</a> •
   <a href="#-architecture">Architecture</a> •
