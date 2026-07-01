@@ -23,7 +23,6 @@ This folder contains documented attack simulations performed against the **Windo
 | 2 | [Brute-Force Attack](Attacks/attack-02-bruteforce-README.md) | Credential Access | T1110 | 📝 Template |
 | 3 | [PowerShell Execution](Attacks/attack-03-powershell-execution-README.md) | Execution | T1059.001 | 📝 Template |
 | 4 | [Persistence Mechanism](Attacks/attack-04-persistence-README.md) | Persistence | T1053 | 📝 Template |
-| 5 | [Privilege Escalation](Attacks/attack-05-privilege-escalation-README.md) | Privilege Escalation | T1548 | 📝 Template |
 
 > 📌 **Note:** Update the status column as you complete each simulation (📝 Template → ✅ Complete).
 
